@@ -11,7 +11,7 @@ int main() {
         if(operation == 'e')
         {
             break;
-        }
+        } 
         else if(operation == '+')
         {
             result = num1 + num2;
