@@ -7,7 +7,7 @@ int main() {
     float result; 
     while(1) // 1 == TRUE; 0 == FALSE
     {
-        scanf("%c %f %f", &operation, &num1, &num2); 
+        scanf("%c %f %f", &operation, &num1, &num2);  
         if(operation == 'e') 
         {
             break;
