@@ -21,7 +21,7 @@ int main() {
             result = num1 - num2;
         }        
         else if(operation == '*')
-        {
+        { 
             result = num1 * num2;
         }
         else if(operation == '/')
