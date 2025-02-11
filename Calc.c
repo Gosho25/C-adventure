@@ -27,7 +27,7 @@ int main() {
         else if(operation == '/')
         {
             result = num1 / num2;
-        }
+        } 
     }
     printf("%.6f\n", result);
     return 0;
