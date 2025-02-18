@@ -14,7 +14,7 @@ int main() {
     {
         res = n1 - n2;
     }
-    else if(op == '*')
+    else if(op == '*') 
     {
         res = n1 * n2;
     }
