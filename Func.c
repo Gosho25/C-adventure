@@ -21,7 +21,7 @@ static int multiplier(int num)//unsure
 
 int main() 
 {
-    returner();
-    multiplier(2);
+    returner();//completed
+    multiplier(2);//ERROR
     return 0;
 }
