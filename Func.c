@@ -8,7 +8,7 @@ void returner()//succesful
 }
 
 
-static int multiplier(int num)
+static int multiplier(int num)//unsure
 {
     return num;
     /*    
