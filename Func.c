@@ -23,5 +23,5 @@ int main()
 {
     returner();//completed
     multiplier(2);//ERROR
-    return 0;
+    return 0;//it worked(only 50% of the code)
 }
