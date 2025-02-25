@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 
-void returner()
+void returner()//succesful
 {
     printf("Hello\n");
     printf("Methods\n");
