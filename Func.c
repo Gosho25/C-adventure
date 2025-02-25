@@ -11,7 +11,7 @@ void returner()//succesful
 static int multiplier(int num)//unsure
 {
     return num;
-    /*    
+    /*    ignored lines?
     int mult;
     printf("Write a multiplier: \n");
     scanf_s("%d ", &mult);
