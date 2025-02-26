@@ -1,4 +1,4 @@
-static int multiplier(int num1, int num2)
+int multiplier(int num1, int num2)//moje i bez static
 {
     int result = num1 * num2;
     printf("The sum of %d and %d is %d", num1, num2, result);
