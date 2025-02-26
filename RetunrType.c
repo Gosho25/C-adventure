@@ -9,7 +9,7 @@ int multiplier(int num1, int num2)//moje i bez static
 int main() 
 {
     printf("\n");
-    int funcObject = multiplier(2, 2);//imame printf vuv funkciqta i e izlishen v main
+    int funcObject = multiplier(2, 5);//imame printf vuv funkciqta i e izlishen v main
     printf("\n");
     return 0;
 }
