@@ -6,8 +6,6 @@ int multiplier(int num1, int num2)//moje i bez static
 }
 
 
-
-
 int main() 
 {
     printf("\n");
