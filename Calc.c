@@ -4,7 +4,7 @@ int main() {
     float num1; 
     float num2; 
     char operation;    
-    float result;   
+    float result;    
     while(1) // 1 == TRUE; 0 == FALSE 
     { 
         scanf("%c %f %f", &operation, &num1, &num2);  
