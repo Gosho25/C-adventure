@@ -5,7 +5,7 @@ int main() {
     float num2; 
     char operation;    
     float result;   
-    while(1) // 1 == TRUE; 0 == FALSE
+    while(1) // 1 == TRUE; 0 == FALSE 
     {
         scanf("%c %f %f", &operation, &num1, &num2);  
         if(operation == 'e') 
