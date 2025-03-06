@@ -3,7 +3,7 @@
 int main() {  
     float num1; 
     float num2;   
-    char operation;    
+    char operation;     
     float result;    
     while(1) // 1 == TRUE; 0 == FALSE 
     { 
