@@ -3,6 +3,6 @@
 
 int main()
 {
-    //We must use shellcode
+    //We must use shellcode, windows API
     return 0;
 }
